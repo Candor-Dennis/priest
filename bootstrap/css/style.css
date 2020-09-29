@@ -3,7 +3,7 @@ body{
 	padding: 0px;
 }
 div.background{
-	background: linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
+	background: linear-gradient(rgba(10,10,196,0.6),rgba(128,0,128,0.7));
 	height: 100vh;
 	width: 100%;
 	margin-bottom: 50px;
@@ -45,7 +45,7 @@ div [data-toggle="modal"]{
 	width: 100%;
 }
 .background2{
-	background: linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
+	background: linear-gradient(rgba(10,10,196,0.6),rgba(128,0,128));
 	height: 50vh;
 	width: 100%;
 }
@@ -58,7 +58,7 @@ footer{
 	width: 100%;
 }
 .my-btn{
-	background: linear-gradient(to bottom ,rgba(10,10,196,0.6),rgba(10,10,196,0.6));
+	background: linear-gradient(to bottom ,rgba(128,0,128,0.7),rgba(10,10,196,0.6));
 	width: 20%;
 }
 .slide{
@@ -68,7 +68,7 @@ footer{
 
 @media all and (max-width: 699px){
 	div.background{
-	background: linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
+	background: linear-gradient(rgba(10,10,196,0.6),rgba(128,0,128,0.7));
 	height: 130vh;
 	width: 100%;
 }
@@ -88,7 +88,7 @@ footer{
 		background-color: white;
 	}
 	.background2{
-		background:linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
+		background:linear-gradient(rgba(128,0,128,0.7),rgba(10,10,196,0.7));
 		height: 70vh;
 		width: 100%;
 		margin-bottom: 30px;
