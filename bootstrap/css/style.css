@@ -75,6 +75,9 @@ footer{
 	 .text-down{
 		margin-top: 100px;
 	}
+	h2.little{
+		font-size: 50px;
+	}
 	.my-btn{
 		width: 100%;
 	}
@@ -111,6 +114,9 @@ footer{
 		background:black;
 		height: 80vh;
 		width: 100%;
+	}
+	h2.little{
+		font-size: 50px;
 	}
 	.background2{
 		background:linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
