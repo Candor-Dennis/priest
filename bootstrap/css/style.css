@@ -4,8 +4,9 @@ body{
 }
 div.background{
 	background: linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
-	height: 85vh;
+	height: 100vh;
 	width: 100%;
+	margin-bottom: 50px;
 }
 .navbar-default{
 	transition:500ms ease;
@@ -35,12 +36,13 @@ img.large:hover{
               2px 2px grey,
               3px 3px white;
               transform: translateY(-20px);
-   	/*height: 200px;
-   	width: 400px;*/
-  
 }
 div [data-toggle="modal"]{
 
+}
+.crop{
+	height: 400px;
+	width: 100%;
 }
 .background2{
 	background: linear-gradient(rgba(10,10,196,0.6),rgba(10,10,196));
@@ -94,7 +96,7 @@ footer{
 }
 	@media all and (max-width: 360px){
 	 .text-down{
-		margin-top: 100px;
+		margin-top: 250px;
 	}
 	.my-btn{
 		width: 100%;
