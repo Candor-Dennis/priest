@@ -93,6 +93,12 @@ footer{
 		width: 100%;
 		margin-bottom: 30px;
 	}
+	footer{
+		text-align: center;
+	}
+	div.long{
+		display: none;
+	}
 }
 	@media all and (max-width: 360px){
 	 .text-down{
@@ -111,5 +117,11 @@ footer{
 		height: 80vh;
 		width: 100%;
 		margin-bottom: 30px;
+	}
+	footer{
+		text-align: center;
+	}
+	div.long{
+		display: none;
 	}
 }
